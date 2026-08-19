@@ -1,0 +1,84 @@
+Meeting: Q3 Planning Review
+Date: 2026-08-19
+Duration: 45 minutes
+Participants: Alice (Product Manager), Bob (Engineering Lead), Charlie (Design Lead), Diana (Marketing)
+
+---TRANSCRIPT---
+
+Alice: Good morning everyone. Let's kick off our Q3 planning session. We need to finalize our product roadmap priorities for the next quarter. We have several initiatives competing for resources, so let's be strategic about what we commit to.
+
+Bob: Thanks Alice. From engineering's perspective, we have about 10 developer-months of capacity in Q3. That means we need to be ruthless about prioritization.
+
+Alice: Absolutely. Let's start with the authentication overhaul. Charlie, how critical is this from a user experience standpoint?
+
+Charlie: Very critical. Our current auth flow is outdated, and it's causing friction for new users. I'd say this is a 9/10 priority for design. We can modernize the interface and improve accessibility at the same time.
+
+Alice: And Bob, what's the engineering effort?
+
+Bob: We're looking at maybe 4-5 developer-months if we do it right. We could strip it down to 2-3 months if we focus on just core features and push the advanced stuff to Q4.
+
+Diana: From a marketing perspective, modernized authentication is a strong selling point. We could feature it in our Q3 launch announcements.
+
+Alice: That's great validation. I propose we prioritize authentication as our top initiative for Q3. The user experience improvements alone justify the investment. All in favor?
+
+Charlie: Yes, absolutely.
+
+Bob: I support it, but I have one concern.
+
+Alice: What's that?
+
+Bob: If we allocate 4-5 developers to auth, that leaves us with limited capacity for other work. The analytics dashboard project and API improvements will have to wait or be significantly scaled back.
+
+Charlie: That's a real trade-off. If we delay the design system work, it could impact our ability to ship features quickly in Q4.
+
+Alice: Valid point. Let's acknowledge this as a risk. Charlie, can you document the impact to our design velocity if resources are shared across both projects?
+
+Charlie: Sure. I'll prepare a timeline showing how design work would be affected.
+
+Diana: One more thing - we should communicate this decision clearly to stakeholders. Some might be expecting analytics work in Q3.
+
+Alice: Excellent catch. That's a follow-up item. I'll own that communication.
+
+Bob: So just to confirm - are we 100% committed to this, or is there flexibility if we discover major blockers?
+
+Alice: We're committed, but we'll revisit if genuine blockers emerge. For now, let's assume it's locked. I need you to prepare a detailed technical specification for the authentication module.
+
+Bob: When do you need that by?
+
+Alice: Let's target August 23rd. That gives us a week to review and refine before we start development.
+
+Bob: That's tight but doable. I can have it ready by end of day August 22nd.
+
+Diana: Should marketing start preparing launch content now?
+
+Alice: Yes, but keep it under wraps until we have the spec finalized. Diana, can you align with Bob on the feature details?
+
+Diana: Absolutely. I'll check in with Bob next week.
+
+Charlie: One last thing - we should plan for accessibility testing. Not just for auth, but as part of our design review process going forward.
+
+Bob: Agreed. I'll allocate some testing capacity for that.
+
+Alice: Great. Let me recap the action items:
+
+1. Bob: Prepare detailed authentication technical specification - Due August 23rd - Priority: HIGH
+2. Charlie: Document design system timeline impact - Priority: MEDIUM
+3. Alice: Communicate Q3 priorities to stakeholders - Priority: HIGH
+4. Diana: Prepare Q3 launch content for authentication features - Priority: MEDIUM
+5. Diana & Bob: Weekly sync on feature details - Priority: MEDIUM
+
+Risks identified:
+1. Resource contention between authentication and design system work - Severity: MEDIUM - Mitigation: Charlie's timeline analysis will help us make resource decisions
+2. Timeline pressure on authentication spec - Severity: LOW - Mitigation: Bob has committed to tight delivery
+
+Follow-up items:
+- Schedule resource allocation meeting for next week
+- Review and approve technical specification
+- Planning accessibility testing approach
+- Stakeholder communication and feedback
+
+One more thing - let's schedule a follow-up meeting for next Wednesday to review progress and address any emerging issues. Everyone good with that?
+
+All: Yes.
+
+Alice: Perfect. Thanks everyone. Let's make Q3 count!
